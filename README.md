@@ -73,7 +73,7 @@ Contains the logic for:
    ```bash
    git clone https://github.com/your-username/simple-dice-roller.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: <br>
 ```cd simple-dice-roller```
 
 Open index.html in any browser.

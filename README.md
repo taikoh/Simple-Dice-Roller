@@ -75,6 +75,7 @@ Contains the logic for:
 
 2. Navigate to the project directory:
 ```cd simple-dice-roller
+
 Open index.html in any browser.
 
 3. Customization
